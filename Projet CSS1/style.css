@@ -1,0 +1,14 @@
+div {
+  background-color: blue;
+}
+div #div1 {
+  background-color: darkred;
+  border: 5px solid yellow;
+}
+div #div2 {
+  background-color: #34495e;
+  border: 5px solid green;
+}
+div p {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
